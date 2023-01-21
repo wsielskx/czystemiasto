@@ -1,0 +1,22 @@
+{
+  "name": "czystemiasto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "node-fetch": "^2.6.1",
+    "objects-to-csv": "^1.3.6",
+    "typescript": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.8",
+    "@types/objects-to-csv": "^1.3.1"
+  }
+}
